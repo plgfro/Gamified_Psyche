@@ -1,0 +1,11 @@
+all events must be able to do this:
+
+1. modify other event probabilities (function that can affect 
+2. have content in order to be displayed (content attribute)
+3. be able to be DYNAMICALLY modified with the disorders (adhd can affect probability of criminal activity) -- this is handled by a beautiful thing called stuffing every event into 1 table
+4. have conditions of "happening"
+5. have a calculate probability function (WITHIN EACH INDIVIDUAL EVENT)
+6. each choice must be able to have a function
+
+After this project, we MUST and I mean MUST think of ways to clean up all the code,
+otherwise we will never learn
